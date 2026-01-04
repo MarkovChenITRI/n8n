@@ -1,4 +1,4 @@
-## Installation
+## 安裝
 ### Windows
 
 1. 到 Node.js 官網 下載 LTS 版本的Node.js，並打開 PowerShell 或命令提示字元執行以下指令驗證安裝
@@ -11,6 +11,17 @@
     npm install -g n8n
     n8n --version
     ```
+
+## 快速開始
+
+在 PowerShell 或命令提示字元執行以下指令啟動 n8n：
+
+```powershell
+n8n start
+```
+
+在瀏覽器開啟 `http://localhost:5678` 即可開始使用 n8n 建立工作流
+
 
 ## Github 工作流資料同步
 
