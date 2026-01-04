@@ -13,7 +13,7 @@ n8n --version
 ```
 ## Github 資料同步
 
-1. 透過以下指令匯出所有工作流至`workflows`
+1. 在 PowerShell 或命令提示字元輸入以下指令，將所有工作流匯出至`workflows`資料夾
 ```
 n8n export:workflow --all --output=workflows/
 ```
