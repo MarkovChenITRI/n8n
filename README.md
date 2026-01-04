@@ -13,8 +13,11 @@ n8n --version
 ```
 ## Github 資料同步
 
+### 上傳
 1. 在 PowerShell 或命令提示字元輸入以下指令，將所有工作流匯出至`workflows`資料夾
 ```
 n8n export:workflow --all --output=workflows/
 ```
 2. 於Github Desktop點擊提交並推送專案
+3. 
+### 上傳
